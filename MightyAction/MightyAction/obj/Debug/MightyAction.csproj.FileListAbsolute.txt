@@ -1,0 +1,12 @@
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\bin\Debug\MightyAction.exe.config
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\bin\Debug\MightyAction.exe
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\bin\Debug\MightyAction.pdb
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\obj\Debug\MightyAction.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\obj\Debug\MightyAction.Form1.resources
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\obj\Debug\MightyAction.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\obj\Debug\MightyAction.csproj.GenerateResource.Cache
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\obj\Debug\MightyAction.exe
+C:\Users\Asus\Source\Repos\Project-GUI-KMN\MightyAction\MightyAction\obj\Debug\MightyAction.pdb
+C:\Users\Asus\Source\Repos\Game\MightyAction\MightyAction\bin\Debug\MightyAction.exe.config
+C:\Users\Asus\Source\Repos\Game\MightyAction\MightyAction\obj\Debug\MightyAction.exe
+C:\Users\Asus\Source\Repos\Game\MightyAction\MightyAction\obj\Debug\MightyAction.pdb
